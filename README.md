@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SoumyaCMC
 - 👀 I’m interested in ...Web Developement with React,App developement with Flutter
 - 🌱 I’m currently learning ...Machine Learning and Computer Vision. Angular and PHP as well
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ... any developement type project that'll help me learn
+- 📫 How to reach me ...you can find me on LinkedIn on Soumya Ranjan Mohapatro
 
 <!---
 SoumyaCMC/SoumyaCMC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
